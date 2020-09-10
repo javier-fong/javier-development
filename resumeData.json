@@ -1,0 +1,158 @@
+{
+  "main": {
+    "name":"Javier Fong",
+    "occupation":"Engineer",
+    "description":" currently employed by ",
+    "employer":"Fong's Engineering & Manufacturing Pte Ltd",
+    "jobDescription":"help the company in digital transformation. With an interest in software development and aspiration to become a software developer, I started my journey in General Assembly to learn Software Engineering.",
+    "image":"profile_pic.jpg",
+    "bio":"I am an athlete at heart, with an entrepreneurial spirit and a passion for coding. Working in a role that has numerous contacts with technologies, I started developing an interest in coding and pursued my first software engineering course with General Assembly. I am constantly learning and my aspiration is to become a full stack developer.",
+    "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "email": "fong.kayyuen@gmail.com",
+    "phone": "(65) 9644-4512",
+    "address":{
+      "street":"Tanah Merah Kechil Road",
+      "city":"Singapore"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://drive.google.com/file/d/1mKduzX0tnhjuZ6Yiltwd4cxI03oXfhgo/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/kyjavierfong/",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/javierfong/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/ky_javierfong/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/redgreenblues",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am always interested in learning new technologies and these are the ones that have won me over",
+    "education":[
+      {
+        "school":"General Assembly",
+        "degree":"Software Engineering Immersive",
+        "graduated":"Oct 2020",
+        "description":""
+      },
+      {
+        "school":"Royal Melbourne Institute of Technology University, SIM-RMIT",
+        "degree":"Bachelor of Business in Economics & Finance",
+        "graduated":"2017",
+        "description":""
+      },
+      {
+        "school":"Temasek Polytechnic",
+        "degree":"Diploma in Electronics (Business Option)",
+        "graduated":"2012",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Fong's Engineering & Manufacturing Pte Ltd",
+        "title": "Engineer (Tech & Transformation)",
+        "years": "May 2019 - Present",
+        "description": "Fong’s Engineering & Manufacturing Private Limited is a leading precision engineering company engaged in the design, manufacture and repair of products primarily for the medical industry."
+      },
+      {
+        "company":"Changi General Hospital",
+        "title":"Financial Analyst (Informatics)",
+        "years":"September 2017 - September 2018",
+        "description":"Changi General Hospital (CGH) is an award-winning public hospital with over 1,000 beds caring for a community of more than 1 million people in the East. CGH offers a comprehensive range of medical specialties and services, helmed by a highly experienced and skilled team of healthcare professionals who consistently deliver excellent health outcomes and care for patients. \n\nFor most of my time here, I have planned, managed and coordinated IT-related projects in view of relevant financial policies and operational requirements. I have liaised with relevant stakeholders in business process re-engineering, finalizing user requirements and performing user acceptance tests. I am responsible for maintenance of pricing and costing systems as well as participated in financial and management accounting."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "description":"I use Git for all of my projects so far. I have used Git for version control in my group project.",
+        "image":"git.jpg"
+      },
+      {
+        "name":"React Js",
+        "description":"I have used React as my frontend library in my projects.",
+        "image":"react.jpg"
+      },
+      {
+        "name":"Node JS",
+        "description":"Node JS is my server-side scripting language of choice.",
+        "image":"node.jpg"
+      },
+      {
+        "name":"Express JS",
+        "description":"I have used Express JS as my preferred web application framework for all my projects so far.",
+        "image":"express.jpg"
+      },
+
+      {
+        "name":"Bootstrap 4",
+        "description":"I use Bootstrap more often than not when designing the layout for my sites. It is a framework I am familiar with and therefore able to design faster.",
+        "image":"bootstrap.jpg"
+      },
+      {
+        "name":"MongoDB",
+        "description":"I am better educated with the use of NoSQL database and the ease of use of MongoDB suits my needs making it much more enjoyable to work with.",
+        "image":"mongo.jpg"
+      },
+      {
+        "name":"Heroku",
+        "description":"I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image":"heroku.jpg"
+      },
+      {
+        "name":"Material-UI",
+        "description":"I have used Material-UI components to build a React UI framework in my latest project, allowing for faster and easier stylized web development.",
+        "image":"material.jpg"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Word Unscramble",
+        "category":"A word unscramble game that could serve as an educational purpose, and users could learn new english words they have never heard about.",
+        "image":"word-unscramble.jpg",
+        "url":"https://redgreenblues.github.io/word-unscramble/"
+      },
+      {
+        "title":"Vacay Diary",
+        "category":"An app to plan and manage holiday itineraries.",
+        "image":"vacay-diary.jpg",
+        "url":"https://vacay-diary.herokuapp.com/"
+      },
+      {
+        "title":"Playboy Starter Pack",
+        "category":"A group project that aims to provide users to quickly find memes/gifs/puns to impress their female counterpart.",
+        "image":"playboy.jpg",
+        "url":"https://playboy-starter-pack-frontend.herokuapp.com/"
+      },
+      {
+        "title":"Dock",
+        "category":"A family organizer app",
+        "image":"dock.jpg",
+        "url":"https://dock-frontend.herokuapp.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"I have had the opportunity to work with Tim on multiple occasions which has always been a pleasure. He is driven and motivated with a consistently positive attitude. Tim excels at communicating with others and is always willing to work hard until he solves the problem at hand.",
+        "user":"Alastair Beaumont - Web Developer at AppColony"
+      }
+    ]
+  }
+}
