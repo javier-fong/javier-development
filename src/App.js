@@ -24,8 +24,8 @@ class App extends Component {
   getResumeData(){
       const load = document.getElementById('siteLoading')
     $.ajax({
-      url:'/resumeData.json',
-      dataType:'json',
+      url:'https://api.jsonbin.io/b/5f5a26ed7243cd7e82399db2',
+      dataType: 'json',
       cache: false,
       success: function(data){
         this.setState({resumeData: data});
