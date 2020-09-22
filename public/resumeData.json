@@ -4,7 +4,7 @@
     "occupation":"Engineer",
     "description":" currently employed by ",
     "employer":"Fong's Engineering & Manufacturing Pte Ltd",
-    "jobDescription":"help the company in digital transformation. With an interest in software development and aspiration to become a software developer, I started my journey in General Assembly to learn Software Engineering.",
+    "jobDescription":"help the company in digital transformation. I discovered my interest in coding and now I am passionate and excited to use my web development skills to enhance daily life through technologies by creating software applications.",
     "image":"profile_pic.jpg",
     "bio":"I am an athlete at heart, with an entrepreneurial spirit and a passion for coding. Working in a role that has numerous contacts with technologies, I started developing an interest in coding and pursued my first software engineering course with General Assembly. I am constantly learning and my aspiration is to become a full stack developer.",
     "contactmessage":"Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
@@ -15,7 +15,7 @@
       "city":"Singapore"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://drive.google.com/file/d/1mKduzX0tnhjuZ6Yiltwd4cxI03oXfhgo/view?usp=sharing",
+    "resumedownload":"https://drive.google.com/file/d/1OrgiAjhkZkSoqZGCZEAB1_pA2R_Nv2UP/view?usp=sharing",
     "social":[
       {
         "name":"facebook",
@@ -34,7 +34,7 @@
       },
       {
         "name":"github",
-        "url":"https://github.com/redgreenblues",
+        "url":"https://github.com/javier-fong",
         "className":"fa fa-github"
       }
     ]
@@ -66,7 +66,7 @@
         "company":"Fong's Engineering & Manufacturing Pte Ltd",
         "title": "Engineer (Tech & Transformation)",
         "years": "May 2019 - Present",
-        "description": "Fong’s Engineering & Manufacturing Private Limited is a leading precision engineering company engaged in the design, manufacture and repair of products primarily for the medical industry."
+        "description": "Fong’s Engineering & Manufacturing Private Limited is a leading precision engineering company engaged in the design, manufacture and repair of products primarily for the medical industry. \n\nFor most of my time here, I have assisted the manager to plan & execute projects under its purview, and in joint efforts with both colleagues and external technology experts, to ascertain the best solutions to meet company's digitalisation strategy."
       },
       {
         "company":"Changi General Hospital",
