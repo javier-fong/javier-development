@@ -23,7 +23,7 @@ class App extends Component {
   getResumeData(){
       const load = document.getElementById('siteLoading')
     $.ajax({
-      url:'https://api.jsonbin.io/b/5f69eef87243cd7e82414d9e',
+      url:'https://api.jsonbin.io/b/5f69f0047243cd7e82414e20',
       dataType: 'json',
       cache: false,
       success: function(data){
